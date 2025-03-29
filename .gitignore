@@ -1,0 +1,42 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Node.js dependencies (if any in frontend)
+frontend/node_modules/
+
+# Ignore build files
+frontend/.next/
+frontend/dist/
+frontend/build/
+
+# Ignore environment and config files
+.env
+.env.local
+.env.production
+.env.development
+
+# Ignore Docker build artifacts
+docker-compose.override.yml
+*.dockerfile
+.dockerignore
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
