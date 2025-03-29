@@ -155,7 +155,7 @@ This project is licensed under the **MIT License**.
 ✅ Deploy using Kubernetes 🚀
 ✅ Implement AI-powered log correlation 🤖
 
-For any issues, contact **your-email@example.com**
+For any issues, contact **thesauravkumar@hotmail.com**
 
 ---
 
